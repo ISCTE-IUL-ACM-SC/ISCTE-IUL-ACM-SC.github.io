@@ -11,13 +11,13 @@
 <main>
 	<div class="error-page">
 		<div class="container">
-			<h1>Oh no!</h1>
+			<h1>Oh não!</h1>
 			<div class="svg-wrapper">
 				<Error />
 			</div>
-			<p>It seems like coffee was spilled all over this page, and now it can't be displayed.</p>
+			<p>Não encontrámos esta página.</p>
 			<br />
-			<Button href="/">Start over</Button>
+			<Button href="/">Voltar</Button>
 		</div>
 	</div>
 </main>

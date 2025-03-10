@@ -1,5 +1,5 @@
 ---
-title: ISCTE-UIL ACM Student Chapter at Fista 2024
+title: ACM ISCTE-IUL Student Chapter at Fista 2024
 
 # slug part please put the same name as the folder
 slug: fista2024
